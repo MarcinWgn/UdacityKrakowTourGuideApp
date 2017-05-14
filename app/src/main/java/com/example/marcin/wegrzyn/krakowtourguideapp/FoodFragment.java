@@ -27,10 +27,6 @@ public class FoodFragment extends Fragment {
         View view = inflater.inflate(R.layout.place_list,container,false);
 
         final ArrayList<Place> places = new ArrayList<>();
-        places.add(new Place(R.string.sukiennice,R.string.sukiennice_desc));
-        places.add(new Place(R.string.sukiennice,R.string.sukiennice_desc));
-        places.add(new Place(R.string.sukiennice,R.string.sukiennice_desc));
-
 
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity(),places);
 

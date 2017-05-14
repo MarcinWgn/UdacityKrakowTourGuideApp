@@ -19,4 +19,18 @@
     <string name="image">image</string>
     <string name="title">Title</string>
     <string name="description">description</string>
+    <string name="airshow">Krakow airshow</string>
+    <string name="airshow_desc">opis</string>
+    <string name="museum_wawel">Wawel Castle Museum</string>
+    <string name="museum_wawel_desc">The Wawel Castle is a castle residency located in central Kraków. Built at the behest of King Casimir III the Great.</string>
+    <string name="museum_main_square_underground">Main Square Underground Museum</string>
+    <string name="museum_main_square_underground_desc">The underground museum beneath the Main Square is an archaeological-architectural preserve. This unique complex occupies 3,300 m2, and exhibits traces of settlements from nomadic times and relics of medieval construction </string>
+    <string name="museum_colegium_maius">The Collegium Maius</string>
+    <string name="museum_colegium_maius_desc">The Collegium Maius located in Kraków Old Town, Poland, is the Jagiellonian University oldest building, dating back to the 14th century</string>
+    <string name="museum_pharmacy">Pharmacy Museum</string>
+    <string name="museum_pharmacy_desc">Founded in 1946 and part of the Jagiellonian University, the Pharmacy Museum is one of the few museums of that type in the world. Exhibits collected here show the history of pharmacy from the Middle Ages to modern times.</string>
+    <string name="museum_cathedral_wawel">Wawel Cathedral Museum</string>
+    <string name="museum_cathedral_wawel_desc">The Cathedral has ammassed some unique treasures over the centuries, and here you can have a peak at some of the most intriguing.</string>
+    <string name="museum_czartoryski">Czartoryski Museum</string>
+    <string name="museum_czartoryski_desc">A rare jewel of a museum with an extraordinary history to match. Famous of course for its Leonardo da Vinci</string>
 </resources>

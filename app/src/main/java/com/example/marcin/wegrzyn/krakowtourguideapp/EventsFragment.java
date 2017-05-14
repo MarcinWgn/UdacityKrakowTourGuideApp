@@ -27,10 +27,7 @@ public class EventsFragment extends Fragment {
         View view = inflater.inflate(R.layout.place_list,container,false);
 
         final ArrayList<Place> places = new ArrayList<>();
-        places.add(new Place(R.string.sukiennice,R.string.sukiennice_desc));
-        places.add(new Place(R.string.sukiennice,R.string.sukiennice_desc));
-        places.add(new Place(R.string.sukiennice,R.string.sukiennice_desc));
-        places.add(new Place(R.string.sukiennice,R.string.sukiennice_desc));
+        places.add(new Place(R.string.airshow,R.string.airshow_desc,R.drawable.airshow));
 
 
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity(),places);
