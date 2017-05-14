@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">KrakowTourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sukiennice">Cloth Hall</string>
+    <string name="sukiennice_desc"> is one of the most recognizable City icons. It is the central feature of the main market square in the Kraków Old Town</string>
+    <string name="main_market">Main Market Square</string>
+    <string name="main_market_desc">is one of the largest medieval town squares in Europe</string>
+    <string name="mariacki">Church of the Virgin Mary</string>
+    <string name="mariacki_desc">is a Brick Gothic church adjacent to the Main Market Square in Kraków, Poland. Built in the 14th century</string>
+    <string name="wawel_katedra">Wawel Cathedral</string>
+    <string name="wawel_katedra_desc">is a Roman Catholic church located on Wawel Hill in Kraków, Poland. More than 900 years old</string>
+    <string name="wawel_zamek">Wawel Royal Castle</string>
+    <string name="wawel_zamek_desc">is an complex erected over many centuries atop a limestone outcrop on the left bank of the Vistula river in Kraków</string>
+    <string name="brama_florianska">St. Florian Gate</string>
+    <string name="brama_florianska_desc">Florian Gate is one of the best-known Polish Gothic towers, and a focal point of Kraków</string>
+    <string name="barbakan">The Barbican</string>
+    <string name="barbakan_desc">The Barbican is a fortified outpost once connected to the city walls.</string>
+    <string name="image">image</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
 </resources>
