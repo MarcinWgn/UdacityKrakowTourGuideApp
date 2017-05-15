@@ -49,5 +49,9 @@
     <string name="food_pod_aniloami_desc">The menu offers lovingly prepared, mouth-watering delicacies of Polish cuisine such as homemade lard, Polish and Russian dumplings. Grodzka 35, Krakow</string>
     <string name="food_cyrano">Cyrano de Bergerac</string>
     <string name="food_cyrano_desc">Cyrano de Bergerac ranks among the top restaurants in Krakow and is a treat for visitors looking for a French-style restaurant. Sławkowska 26, Krakow</string>
+    <string name="top_places">Top Places</string>
+    <string name="museums">Museums</string>
+    <string name="events">Events</string>
+    <string name="food">Food</string>
 
 </resources>

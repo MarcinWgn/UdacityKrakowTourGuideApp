@@ -32,10 +32,10 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
 
 
-        if(position == 0) return "Top Places";
-        else if (position == 1)return "Museums";
-        else if (position == 2)return "Events";
-        else return "Food";
+        if(position == 0) return mcontext.getString(R.string.top_places);
+        else if (position == 1)return mcontext.getString(R.string.museums);
+        else if (position == 2)return mcontext.getString(R.string.events);
+        else return mcontext.getString(R.string.food);
 
     }
 
