@@ -36,6 +36,7 @@ public class Place {
     public int getImageResource() {
         return imageResource;
     }
+
     public boolean hasImage(){
         return imageResource != NO_IMAGE;
     }

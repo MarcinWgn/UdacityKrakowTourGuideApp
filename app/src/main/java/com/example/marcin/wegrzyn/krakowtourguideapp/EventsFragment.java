@@ -28,6 +28,10 @@ public class EventsFragment extends Fragment {
 
         final ArrayList<Place> places = new ArrayList<>();
         places.add(new Place(R.string.airshow,R.string.airshow_desc,R.drawable.airshow));
+        places.add(new Place(R.string.event_museum_night,R.string.event_museum_night_desc));
+        places.add(new Place(R.string.event_street_theatre,R.string.event_museum_night_desc));
+        places.add(new Place(R.string.event_film_festival,R.string.event_film_festival_desc));
+        places.add(new Place(R.string.event_jazz_festiwal,R.string.event_jazz_festiwal_desc));
 
 
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity(),places);

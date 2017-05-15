@@ -28,6 +28,11 @@ public class FoodFragment extends Fragment {
 
         final ArrayList<Place> places = new ArrayList<>();
 
+        places.add(new Place(R.string.food_stylowa,R.string.food_stylowa_desc));
+        places.add(new Place(R.string.food_pod_aniolami,R.string.food_pod_aniloami_desc));
+        places.add(new Place(R.string.food_starka,R.string.food_starka_desc));
+        places.add(new Place(R.string.food_cyrano,R.string.food_cyrano_desc));
+
         PlaceAdapter placeAdapter = new PlaceAdapter(getActivity(),places);
 
         ListView listView = (ListView) view.findViewById(R.id.PlaceList);

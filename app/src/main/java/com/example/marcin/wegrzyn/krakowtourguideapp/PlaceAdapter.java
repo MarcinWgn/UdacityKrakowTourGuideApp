@@ -12,11 +12,15 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+
+
 /**
  * Created by Marcin on 13.05.2017.
  */
 
 public class PlaceAdapter extends ArrayAdapter<Place>{
+
+
     public PlaceAdapter(@NonNull Context context, @NonNull ArrayList<Place> objects) {
         super(context, 0, objects);
     }
@@ -27,7 +31,6 @@ public class PlaceAdapter extends ArrayAdapter<Place>{
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
 
         View view = convertView;
-
         if (view == null) {
             view = LayoutInflater.from(getContext()).inflate(
                     R.layout.item, parent, false);
@@ -40,11 +43,11 @@ public class PlaceAdapter extends ArrayAdapter<Place>{
 
         TextView description = (TextView) view.findViewById(R.id.DescItem);
         description.setText(place.getDescription());
-
         ImageView imageView = (ImageView) view.findViewById(R.id.ImageView);
 
         if(place.hasImage()){
             imageView.setImageResource(place.getImageResource());
+            imageView.setVisibility(View.VISIBLE);
         }else {
             imageView.setVisibility(View.GONE);
         }

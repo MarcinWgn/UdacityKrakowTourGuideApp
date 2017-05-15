@@ -20,7 +20,7 @@
     <string name="title">Title</string>
     <string name="description">description</string>
     <string name="airshow">Krakow airshow</string>
-    <string name="airshow_desc">opis</string>
+    <string name="airshow_desc">The international air picnic in Krakow. It takes place in June in the old airport</string>
     <string name="museum_wawel">Wawel Castle Museum</string>
     <string name="museum_wawel_desc">The Wawel Castle is a castle residency located in central Kraków. Built at the behest of King Casimir III the Great.</string>
     <string name="museum_main_square_underground">Main Square Underground Museum</string>
@@ -33,4 +33,21 @@
     <string name="museum_cathedral_wawel_desc">The Cathedral has ammassed some unique treasures over the centuries, and here you can have a peak at some of the most intriguing.</string>
     <string name="museum_czartoryski">Czartoryski Museum</string>
     <string name="museum_czartoryski_desc">A rare jewel of a museum with an extraordinary history to match. Famous of course for its Leonardo da Vinci</string>
+    <string name="event_museum_night">Night of Museums</string>
+    <string name="event_museum_night_desc">Museum Night is extremely popular venture both amongst inhabitants and tourists</string>
+    <string name="event_street_theatre">Street Art International Street Theatre Festival</string>
+    <string name="event_street_theatre_desc">Over four summer days, you might suddenly find yourself in the middle of a theatre scene. </string>
+    <string name="event_film_festival">Cracow Film Festival</string>
+    <string name="event_film_festival_desc">The Cracow Film Festival is one of Europe oldest events dedicated to documentary, animation and other short film forms.</string>
+    <string name="event_jazz_festiwal">Summer Jazz Festival at Piwnica Pod Baranami</string>
+    <string name="event_jazz_festiwal_desc">Each year the Festival expanded presentions beside 31 everyday concert at the Piwnica club for more additional events at the Krakow</string>
+    <string name="food_starka">Starka</string>
+    <string name="food_starka_desc">is an essential stop for those interested in experiencing high class Polish cuisine. Jozefa 14, Krakow</string>
+    <string name="food_stylowa">Stylowa</string>
+    <string name="food_stylowa_desc">Located east of the Old Town, in the district of Nowa Huta, Stylowa is one of the most authentic restaurants in Krakow. Centrum C 3, Krakow</string>
+    <string name="food_pod_aniolami">Pod Aniołami</string>
+    <string name="food_pod_aniloami_desc">The menu offers lovingly prepared, mouth-watering delicacies of Polish cuisine such as homemade lard, Polish and Russian dumplings. Grodzka 35, Krakow</string>
+    <string name="food_cyrano">Cyrano de Bergerac</string>
+    <string name="food_cyrano_desc">Cyrano de Bergerac ranks among the top restaurants in Krakow and is a treat for visitors looking for a French-style restaurant. Sławkowska 26, Krakow</string>
+
 </resources>
